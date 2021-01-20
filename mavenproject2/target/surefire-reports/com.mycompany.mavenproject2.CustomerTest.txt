@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.mavenproject2.CustomerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.018 sec <<< FAILURE!
+com.mycompany.mavenproject2.CustomerTest.testAddMovieRental()  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.mycompany.mavenproject2.CustomerTest.testAddMovieRental(CustomerTest.java:48)
+
